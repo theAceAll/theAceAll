@@ -1,20 +1,17 @@
-# Hello there! 👋
-
-I'm Asal, a passionate programmer and open-source enthusiast with a focus on C++, HTML, and CSS.
-
-
-## Languages and Tools
-
-- C++
-- HTML
-- CSS
-
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/asal-kc-321626242/)
-- [Twitter](https://twitter.com/asalkc__)
-
-
-Feel free to explore my GitHub repositories and get in touch if you have any questions or collaboration ideas...
-
+<h3 style="text-align: center">Languages and Tools:</h3>
+<div style="text-align: center;">
+  <p style="display: flex; justify-content: center;">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    </a>
+  </p>
+</div>
